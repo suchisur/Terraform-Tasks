@@ -13,7 +13,6 @@ Configuration of endpoint_service.sh is also required for endpoint monitoring wh
 
 Lastly, we need to configure ssmtp.conf with SMTP Server credentials to be able to send alerts to teams based on health checks conducted by the monitoring setup.
 
-
 Usage:
 terraform init
 terraform validate
