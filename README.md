@@ -15,5 +15,7 @@ Lastly, we need to configure ssmtp.conf with SMTP Server credentials to be able 
 
 Usage:
 terraform init
+
 terraform validate
+
 terraform apply -var-file=creds.tfvars
