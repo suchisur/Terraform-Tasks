@@ -24,6 +24,6 @@ variable "name" {
 }
 variable "aws_public_key_name" {
   description = "Name of the the key pair being created"
-  default = "Generic-KP-03"
+  default = "<default key pair name>"
   type = string
 }
