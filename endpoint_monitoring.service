@@ -1,0 +1,8 @@
+[Unit]
+Description=Endpoint Monitoring Service
+
+[Service]
+ExecStart=/bin/bash /home/ubuntu/endpoint_monitoring.sh
+
+[Install]
+WantedBy=multi-user.target

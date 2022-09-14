@@ -1,0 +1,5 @@
+aws_access_key="AKIAVZUUFVXYP5FHVQWJ"
+aws_secret_key="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"
+vpc_id="vpc-09e6b17099a35607f"
+subnet_id="subnet-0d77014f90fb837f0"
+instance_type="t3.medium"
